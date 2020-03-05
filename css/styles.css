@@ -992,4 +992,56 @@ p.ap-badge a.ap-link:hover {
 }
 .newsTile:hover{box-shadow: 4px 6px 20px #787878; transition: 300ms;}
 
+/*====================news====================*/
 
+.courseHolder{
+  height: 250px;
+  width: 30%;
+  margin: 50px 10px;
+  border: 5px solid #29A5CE;
+  border-radius: 10px;
+  transition: 1000ms;
+}
+
+.courseIcon{
+  height: 70px;
+  width: 70px;
+  margin-left: 35%;
+  margin-top: -60px;
+  padding: 20px;
+  font-size: 70px;
+  text-align: center;
+  background: #29A5CE;
+  color: #FFFFFF;
+  border: 5px solid #FFFFFF;
+  border-radius: 150px;
+  transition: 1000ms;
+}
+
+
+.courseData{
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+  color: #FFFFFF;
+  background: rgba(0,0,0,0.5);
+  opacity: 0;
+  transform: rotateY(150deg);
+  transition: 1000ms;
+}
+
+.courseHolder:hover{
+  border: 5px solid #121212;
+  transition: 1000ms;
+}
+.courseHolder:hover > .courseIcon{
+  background: #121212;
+  color: #FFFFFF;
+  transition: 1000ms;
+}
+.courseHolder:hover > .courseData{
+  opacity: 1;
+  transform: rotateY(0deg);
+  transition: 1000ms;
+}

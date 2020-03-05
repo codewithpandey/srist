@@ -91,6 +91,78 @@
 			</div>
 		</div>
 	</div>
+	<br><br><br>
+	<div class="courses centralize">
+		<div class="container">
+			<h2>Coursess:</h2><br><br>
+			<div class="courseHolder inliner" style="background: url('images/courses/electronics.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-microchip vttop"></i></div>
+				<div class="courseData">
+					<h3>Electronics &amp; Telecommunication Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/mechanical.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-cogs vttop"></i></div>
+				<div class="courseData">
+					<h3>Mechanical Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/architecture.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-home vttop"></i></div>
+				<div class="courseData">
+					<h3>Architectural Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/electrical.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-bolt vttop"></i></div>
+				<div class="courseData">
+					<h3>Electrical Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/civil.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-building-o vttop"></i></div>
+				<div class="courseData">
+					<h3>Civil Engineering</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<br><br><br>
+	<div class="others centralize">
+		<div class="container">
+			<h2>Other Institutes of Swami Vivekananda Group of Institutes</h2>
+			<div class="courseHolder inliner" style="background: url('images/courses/electronics.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-microchip vttop"></i></div>
+				<div class="courseData">
+					<h3>Electronics &amp; Telecommunication Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/mechanical.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-cogs vttop"></i></div>
+				<div class="courseData">
+					<h3>Mechanical Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/architecture.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-home vttop"></i></div>
+				<div class="courseData">
+					<h3>Architectural Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/electrical.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-bolt vttop"></i></div>
+				<div class="courseData">
+					<h3>Electrical Engineering</h3>
+				</div>
+			</div>
+			<div class="courseHolder inliner" style="background: url('images/courses/civil.jpg') no-repeat center center / cover;">
+				<div class="courseIcon"><i class="fa fa-building-o vttop"></i></div>
+				<div class="courseData">
+					<h3>Civil Engineering</h3>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<br><br><br><br><br><br><br><br><br>
 	<br><br><br><br><br><br><br><br><br>
