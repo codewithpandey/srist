@@ -992,7 +992,7 @@ p.ap-badge a.ap-link:hover {
 }
 .newsTile:hover{box-shadow: 4px 6px 20px #787878; transition: 300ms;}
 
-/*====================news====================*/
+/*====================course====================*/
 
 .courseHolder{
   height: 250px;
@@ -1045,3 +1045,33 @@ p.ap-badge a.ap-link:hover {
   transform: rotateY(0deg);
   transition: 1000ms;
 }
+
+/*====================others====================*/
+
+.otherHolder{
+  height: 300px;
+  width: 30%;
+  margin: 10px;
+}
+
+.otherName{
+  height: 118px;
+  width: 100%;
+  font-size: 30px;
+  margin-top: 0px;
+  padding-top: 50%;
+  color: #FFFFFF;
+  background: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  opacity: 0;
+  transition: 500ms;
+}
+
+.otherHolder:hover > .otherName{
+  opacity: 1.0;
+  height: 190px;
+  padding-top: 30%;
+  transition: 1000ms;
+}
+
+/**/
