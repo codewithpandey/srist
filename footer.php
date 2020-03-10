@@ -7,10 +7,10 @@
 </div>
 
 </body>
-	
-<link rel="stylesheet" href="font-awesome-4.7.0\css\font-awesome.min.css" type="text/css" />
 <link href="https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap" rel="stylesheet">
-<script src="js/jquery-3.3.1.min.js"></script>
+<script src="https://use.fontawesome.com/742ca76364.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 <script src="js/slider-ap.min.js"></script>
 <script>
 	$(document).ready(function(){
